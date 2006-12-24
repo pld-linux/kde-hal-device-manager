@@ -7,7 +7,7 @@ Version:	0.1
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://kubuntu.org/~jr/kde-hal-device-manager/%{name}_%{version}.tar.gz
+Source0:	http://kubuntu.org/~jriddell/kde-hal-device-manager/%{name}_%{version}.tar.gz
 # Source0-md5:	6e4f4e042ddf9859e5064a1c55b24d82
 URL:		http://www.kde-apps.org/content/show.php?content=33315
 Requires:	hal
