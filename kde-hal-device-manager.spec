@@ -1,7 +1,7 @@
 # TODO:
 # - add desktop file
 Summary:	kde-hal-device-manager - a port of HAL Device Manager to KDE
-Summary(pl):	kde-hal-device-manager - port zarz±dcy urz±dzeñ HAL dla KDE
+Summary(pl.UTF-8):   kde-hal-device-manager - port zarzÄ…dcy urzÄ…dzeÅ„ HAL dla KDE
 Name:		kde-hal-device-manager
 Version:	0.3
 Release:	1
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Port of HAL Device Manager to KDE. Shows what hardware you have on
 your system. 
 
-%description -l pl
-Port zarz±dcy urz±dzeñ HAL dla KDE. Pokazuje jakie urz±dzenia s± w
+%description -l pl.UTF-8
+Port zarzÄ…dcy urzÄ…dzeÅ„ HAL dla KDE. Pokazuje jakie urzÄ…dzenia sÄ… w
 systemie.
 
 %prep
