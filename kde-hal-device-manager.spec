@@ -1,7 +1,7 @@
 # TODO:
 # - add desktop file
 Summary:	kde-hal-device-manager - a port of HAL Device Manager to KDE
-Summary(pl.UTF-8):   kde-hal-device-manager - port zarządcy urządzeń HAL dla KDE
+Summary(pl.UTF-8):	kde-hal-device-manager - port zarządcy urządzeń HAL dla KDE
 Name:		kde-hal-device-manager
 Version:	0.3
 Release:	1
