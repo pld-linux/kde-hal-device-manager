@@ -10,7 +10,7 @@ Group:		X11/Applications
 Source0:	http://kubuntu.org/~jriddell/kde-hal-device-manager/%{name}_%{version}.orig.tar.gz
 # Source0-md5:	b16811cde547790b6f0f4d9cdfd59fa3
 URL:		http://www.kde-apps.org/content/show.php?content=33315
-BuildRequires:	python-PyKDE
+BuildRequires:	python-PyKDE-devel
 BuildRequires:	sed >= 4.0
 Requires:	hal
 Requires:	python-PyQt
